@@ -26,13 +26,13 @@ Currently, I am strengthening my machine learning and mathematical foundations w
 
 ### • Parkinson's Disease Prediction *(Ongoing)*  
 - Medical dataset analysis for early disease prediction  
-- Feature engineering and ML classification techniques
-👉 Repository link : https://github.com/Sourav-Kumar-Show/parkinsons-disease-prediction
+- Feature engineering and ML classification techniques  
+👉 Repository link : https://github.com/Sourav-Kumar-Show/parkinsons-disease-prediction  
 
 ### • Titanic Survival Analysis  
 - Cleaned and analyzed passenger data  
 - Built classification models to predict survival  
-👉 Repository link
+👉 Repository link  
 
 ### • Zomato Dataset Cleaning & EDA  
 - Cleaned messy real-world data  
