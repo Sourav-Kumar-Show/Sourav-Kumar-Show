@@ -24,7 +24,7 @@ Currently, I am strengthening my machine learning and mathematical foundations w
 
 ### 📌 Featured Projects  
 
-### • Parkinson's Disease Prrediction *(Ongoing)*  
+### • Parkinson's Disease Prediction *(Ongoing)*  
 - Medical dataset analysis for early disease prediction  
 - Feature engineering and ML classification techniques
 👉 Repository link
