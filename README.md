@@ -50,4 +50,4 @@ Currently, I am strengthening my machine learning and mathematical foundations w
 ### 📫 Contact  
 
 - [Email ID](souravshaw247@gmail.com)  
-- [LinkedIn](www.linkedin.com/in/sourav-kumar-show)  
+- [LinkedIn](https://www.linkedin.com/in/sourav-kumar-show)  
