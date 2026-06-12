@@ -24,15 +24,17 @@ Currently, I am strengthening my machine learning and mathematical foundations w
 
 ### 📌 Featured Projects  
 
-### • Parkinson's Disease Prediction *(Ongoing)*  
-- Medical dataset analysis for early disease prediction  
-- Feature engineering and ML classification techniques  
-👉 [Repository link](https://github.com/Sourav-Kumar-Show/parkinsons-disease-prediction)  
+### • German Credit Risk Prediction
+- Built an end-to-end machine learning solution to classify loan applicants as Good or Bad Credit Risk
+- Performed data cleaning, EDA, feature engineering, and model comparison
+- Trained Decision Tree, Random Forest, Extra Trees, and XGBoost models with GridSearchCV
+- Deployed the final model using Streamlit for real-time predictions
+👉 [Repository link](https://github.com/Sourav-Kumar-Show/German-Credit-Risk-Prediction)
 
-### • Titanic Survival Analysis  
-- Cleaned and analyzed passenger data  
-- Built classification models to predict survival  
-👉 [Repository link](https://github.com/Sourav-Kumar-Show/titanic-survival-analysis.git)  
+### • Parkinson's Disease Prediction *(Ongoing)*
+- Medical dataset analysis for early disease prediction
+- Feature engineering and ML classification techniques
+👉 [Repository link](https://github.com/Sourav-Kumar-Show/parkinsons-disease-prediction) 
 
 ### • Zomato Dataset Cleaning & EDA  
 - Cleaned messy real-world data  
