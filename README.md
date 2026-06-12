@@ -28,12 +28,12 @@ Currently, I am strengthening my machine learning and mathematical foundations w
 - Built an end-to-end machine learning solution to classify loan applicants as Good or Bad Credit Risk
 - Performed data cleaning, EDA, feature engineering, and model comparison
 - Trained Decision Tree, Random Forest, Extra Trees, and XGBoost models with GridSearchCV
-- Deployed the final model using Streamlit for real-time predictions
+- Deployed the final model using Streamlit for real-time predictions  
 👉 [Repository link](https://github.com/Sourav-Kumar-Show/German-Credit-Risk-Prediction)
 
 ### • Parkinson's Disease Prediction *(Ongoing)*
 - Medical dataset analysis for early disease prediction
-- Feature engineering and ML classification techniques
+- Feature engineering and ML classification techniques  
 👉 [Repository link](https://github.com/Sourav-Kumar-Show/parkinsons-disease-prediction) 
 
 ### • Zomato Dataset Cleaning & EDA  
